@@ -1,0 +1,26 @@
+#loading, #results {
+    display: none;
+    margin-top: 20px;
+}
+.img-container {
+    background-image: url("img/1.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1000px;
+    font-family: 'Crete Round', serif;
+}
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+.container {
+    margin-top: 100px;
+}
